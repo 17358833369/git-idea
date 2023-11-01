@@ -7,5 +7,6 @@ public class GItTest {
         System.out.println("Hello hot-fix");
         System.out.println("合并冲突分支master");
         System.out.println("合并冲突分支hot-fix");
+        System.out.println("push test");
     }
 }
