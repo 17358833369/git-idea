@@ -9,5 +9,6 @@ public class GItTest {
         System.out.println("合并冲突分支hot-fix");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("test");
     }
 }
