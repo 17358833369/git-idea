@@ -11,5 +11,6 @@ public class GItTest {
         System.out.println("pull test");
         System.out.println("test");
         System.out.println("hot-fix test");
+        System.out.println("hot-fix1 test1");
     }
 }
